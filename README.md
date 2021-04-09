@@ -1,14 +1,15 @@
 # Surfs Up Analysis
-The written analysis has the following:
 
 ## Overview
+This analysis was done to determine if the weather in Oahu is suitable for opening an ice cream shop. Weather data stored in a SQLite database were used to determine if the temperature 
 
-The purpose of the analysis is well defined. (3 pt)
+## Results
+* The first key difference between weather in June and December is
+* The second key difference between weather in June and December is
+* The third key difference between weather in June and December is 
 
-## Results:
 
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 
-## Summary:
+## Summary
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
